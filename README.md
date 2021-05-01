@@ -1,3 +1,17 @@
+# Tasks
+
+---
+
+> Add Tailwind/Bootstrap/whatever
+
+> Mock out the UI for the dashboard
+
+> Make sure the mock is responsive.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
