@@ -8,6 +8,17 @@
 
 > Make sure the mock is responsive.
 
+---
+---
+
+> Fetch the categories from the back end API, you will most likely encounter a CORS error. Fix it by referring to earlier code.
+
+> Show the Categories in the UI using the React state.
+
+> Be able to select a category and highlight it with a color.
+
+> List out all the question for a selected category and also be able to create a question for each category.
+
 
 
 
